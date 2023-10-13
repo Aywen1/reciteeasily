@@ -20,9 +20,10 @@ Want to be part of this fun journey? Join my [Discord server](https://discord.gg
 
 ## ⚙️ Instructions
 1. In this software, you must use a revision sheet which has been established from a specific OpenOffice template. In the "Template OpenOffice" folder at the root you will find:
-- Template.odt which is the blank template to use
+- Template.ott which is the blank template to use
 - Example of sheet.odt which is an example of a sheet
-Learn more about Open Office templates to understand how to use this template.
+
+To use this template, you must use [Open Office Styles and Formatting](https://wiki.openoffice.org/wiki/FR/Documentation/Writer_Guide/Styliste#:~:text=Pour%20ouvrir%20la%20fen%C3%AAtre%20Styles,S%C3%A9lectionnez%20Format%20%3E%20Styles%20et%20formatage.).
 
 2. Then, when your course is written, it is necessary to export this file in .html format from the Open Office interface.
 
